@@ -1,0 +1,44 @@
+C:\Users\2020102011003-0\OneDrive\Eloizy Campi\DocWpf\DocWpf\bin\Debug\DocWpf.exe.config
+C:\Users\2020102011003-0\OneDrive\Eloizy Campi\DocWpf\DocWpf\bin\Debug\DocWpf.exe
+C:\Users\2020102011003-0\OneDrive\Eloizy Campi\DocWpf\DocWpf\bin\Debug\DocWpf.pdb
+C:\Users\2020102011003-0\OneDrive\Eloizy Campi\DocWpf\DocWpf\obj\Debug\DocWpf.csproj.AssemblyReference.cache
+C:\Users\2020102011003-0\OneDrive\Eloizy Campi\DocWpf\DocWpf\obj\Debug\DocWpf.csproj.SuggestedBindingRedirects.cache
+C:\Users\2020102011003-0\OneDrive\Eloizy Campi\DocWpf\DocWpf\obj\Debug\MainWindow.g.cs
+C:\Users\2020102011003-0\OneDrive\Eloizy Campi\DocWpf\DocWpf\obj\Debug\App.g.cs
+C:\Users\2020102011003-0\OneDrive\Eloizy Campi\DocWpf\DocWpf\obj\Debug\DocWpf_MarkupCompile.cache
+C:\Users\2020102011003-0\OneDrive\Eloizy Campi\DocWpf\DocWpf\obj\Debug\DocWpf_MarkupCompile.lref
+C:\Users\2020102011003-0\OneDrive\Eloizy Campi\DocWpf\DocWpf\obj\Debug\MainWindow.baml
+C:\Users\2020102011003-0\OneDrive\Eloizy Campi\DocWpf\DocWpf\obj\Debug\DocWpf.g.resources
+C:\Users\2020102011003-0\OneDrive\Eloizy Campi\DocWpf\DocWpf\obj\Debug\DocWpf.Properties.Resources.resources
+C:\Users\2020102011003-0\OneDrive\Eloizy Campi\DocWpf\DocWpf\obj\Debug\DocWpf.csproj.GenerateResource.cache
+C:\Users\2020102011003-0\OneDrive\Eloizy Campi\DocWpf\DocWpf\obj\Debug\DocWpf.csproj.CoreCompileInputs.cache
+C:\Users\2020102011003-0\OneDrive\Eloizy Campi\DocWpf\DocWpf\obj\Debug\DocWpf.exe
+C:\Users\2020102011003-0\OneDrive\Eloizy Campi\DocWpf\DocWpf\obj\Debug\DocWpf.pdb
+C:\Users\2020102011003-0\OneDrive\Eloizy Campi\DocWpf\DocWpf\obj\Debug\DocWpf_Content.g.cs
+C:\Users\2020102011003-0\OneDrive\Eloizy Campi\DocWpf\DocWpf\obj\Debug\Formulários\FmCadastrar.g.cs
+C:\Users\2020102011003-0\OneDrive\Eloizy Campi\DocWpf\DocWpf\obj\Debug\Formulários\FmCadastrar.baml
+C:\Users\2020102011003-0\OneDrive\Eloizy Campi\DocWpf\DocWpf\obj\Debug\Formulários\FmCalcular.g.cs
+C:\Users\2020102011003-0\OneDrive\Eloizy Campi\DocWpf\DocWpf\obj\Debug\Formulários\FmCalcular.baml
+C:\Users\campi\Downloads\DocWpfEnviar\DocWpfEnviar\DocWpf\DocWpf\bin\Debug\DocWpf.exe.config
+C:\Users\campi\Downloads\DocWpfEnviar\DocWpfEnviar\DocWpf\DocWpf\bin\Debug\DocWpf.exe
+C:\Users\campi\Downloads\DocWpfEnviar\DocWpfEnviar\DocWpf\DocWpf\bin\Debug\DocWpf.pdb
+C:\Users\campi\Downloads\DocWpfEnviar\DocWpfEnviar\DocWpf\DocWpf\obj\Debug\DocWpf.csproj.AssemblyReference.cache
+C:\Users\campi\Downloads\DocWpfEnviar\DocWpfEnviar\DocWpf\DocWpf\obj\Debug\DocWpf.csproj.SuggestedBindingRedirects.cache
+C:\Users\campi\Downloads\DocWpfEnviar\DocWpfEnviar\DocWpf\DocWpf\obj\Debug\Formulários\FmCadastrar.g.cs
+C:\Users\campi\Downloads\DocWpfEnviar\DocWpfEnviar\DocWpf\DocWpf\obj\Debug\Formulários\FmCalcular.g.cs
+C:\Users\campi\Downloads\DocWpfEnviar\DocWpfEnviar\DocWpf\DocWpf\obj\Debug\MainWindow.g.cs
+C:\Users\campi\Downloads\DocWpfEnviar\DocWpfEnviar\DocWpf\DocWpf\obj\Debug\App.g.cs
+C:\Users\campi\Downloads\DocWpfEnviar\DocWpfEnviar\DocWpf\DocWpf\obj\Debug\DocWpf_Content.g.cs
+C:\Users\campi\Downloads\DocWpfEnviar\DocWpfEnviar\DocWpf\DocWpf\obj\Debug\DocWpf_MarkupCompile.cache
+C:\Users\campi\Downloads\DocWpfEnviar\DocWpfEnviar\DocWpf\DocWpf\obj\Debug\DocWpf_MarkupCompile.lref
+C:\Users\campi\Downloads\DocWpfEnviar\DocWpfEnviar\DocWpf\DocWpf\obj\Debug\Formulários\FmCadastrar.baml
+C:\Users\campi\Downloads\DocWpfEnviar\DocWpfEnviar\DocWpf\DocWpf\obj\Debug\Formulários\FmCalcular.baml
+C:\Users\campi\Downloads\DocWpfEnviar\DocWpfEnviar\DocWpf\DocWpf\obj\Debug\MainWindow.baml
+C:\Users\campi\Downloads\DocWpfEnviar\DocWpfEnviar\DocWpf\DocWpf\obj\Debug\DocWpf.g.resources
+C:\Users\campi\Downloads\DocWpfEnviar\DocWpfEnviar\DocWpf\DocWpf\obj\Debug\DocWpf.Properties.Resources.resources
+C:\Users\campi\Downloads\DocWpfEnviar\DocWpfEnviar\DocWpf\DocWpf\obj\Debug\DocWpf.csproj.GenerateResource.cache
+C:\Users\campi\Downloads\DocWpfEnviar\DocWpfEnviar\DocWpf\DocWpf\obj\Debug\DocWpf.csproj.CoreCompileInputs.cache
+C:\Users\campi\Downloads\DocWpfEnviar\DocWpfEnviar\DocWpf\DocWpf\obj\Debug\DocWpf.exe
+C:\Users\campi\Downloads\DocWpfEnviar\DocWpfEnviar\DocWpf\DocWpf\obj\Debug\DocWpf.pdb
+C:\Users\campi\Downloads\DocWpfEnviar\DocWpfEnviar\DocWpf\DocWpf\obj\Debug\Formulários\FmTelaAlternativa.g.cs
+C:\Users\campi\Downloads\DocWpfEnviar\DocWpfEnviar\DocWpf\DocWpf\obj\Debug\Formulários\FmTelaAlternativa.baml

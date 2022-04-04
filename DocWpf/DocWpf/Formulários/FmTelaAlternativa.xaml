@@ -1,0 +1,51 @@
+﻿<Window x:Class="DocWpf.Formulários.FmTelaAlternativa"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DocWpf.Formulários"
+        mc:Ignorable="d"
+        Title="FmTelaAlternativa"
+        ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Background="#FF9E9E9E" Height="546" Width="700">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Label Content="Cadastro de Usuário" FontSize="26" Margin="0 20" HorizontalAlignment="Center"></Label>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0" Margin="20 0">
+                <Label Grid.Column="1" Content="Dados Pessoais" FontSize="26"/>
+                <Label Content="Nome"/>
+                <TextBox x:Name="txtNome" Padding="6"/>
+                <Label Content="Data de Nascimento"/>
+                <DatePicker x:Name="dataNascimento" Padding="6"/>
+                <Label Content="CPF"/>
+                <TextBox x:Name="txtCPF" Padding="6"/>
+                <Label Content="RG"/>
+                <TextBox x:Name="txtRG" Padding="6"/>
+            </StackPanel>
+
+            <StackPanel Grid.Column="1" Margin="20 0">
+                <Label Content="Dados de Endereço" FontSize="26"/>
+                <Label Content="Rua:"/>
+                <TextBox x:Name="txtRua" Padding="6"/>
+                <Label Content="Número:"/>
+                <TextBox x:Name="txtNumeroRua" Padding="6"/>
+                <Label Content="Bairro:"/>
+                <TextBox x:Name="txtBairro" Padding="6"/>
+                <Label Content="Cidade:"/>
+                <TextBox x:Name="txtCidade" Padding="6"/>
+                <Label Content="UF:"/>
+                <TextBox x:Name="txtUF" Padding="6"/>
+            </StackPanel>
+            <Button x:Name="btCadastrar" Content="Cadastrar" HorizontalAlignment="Left" Margin="280,348,0,0" VerticalAlignment="Top" Background="Black" Foreground="White" FontSize="24" FontFamily="Segoe UI Semibold" Width="140" Height="44" Grid.ColumnSpan="2" Click="btCadastrar_Click"/>
+            <Button x:Name="btVoltar" Grid.Column="1" Content="Voltar" HorizontalAlignment="Left" Margin="235,382,0,0" VerticalAlignment="Top" Foreground="White" Background="#FF040000" FontFamily="Segoe UI Semibold" FontSize="24" Width="95" Click="btVoltar_Click"/>
+        </Grid>
+    </Grid>
+</Window>
